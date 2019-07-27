@@ -59,7 +59,7 @@ DockerでGPUを使うためのnvidia-docker2を導入．
 
 ### Prerequisites  
 * ホストとなるOSに NVIDIA driver を導入していること．  
-`nvidia-smi`で表が出てくるか確認してください．  
+`$ nvidia-smi`で表が出てくるか確認してください．  
 * nvidia-docker を初めて導入する人．  
 古いものがあれば消す必要があるのでそういう人は公式ページを参照．  
 このページでは紹介しません．  
