@@ -4,6 +4,7 @@ This is a note on how to install Docker on Ubuntu 18.0.4
 ### 対象者
 * Ubuntu環境でDockerを使ってみたい人．  
 * DockerでGPUを使いたい人（2章へ）．  
+  * Windowsだと使えないらしい
 
 ### 筆者の環境  
 CPU: Intel corei9-9900k  
@@ -12,7 +13,8 @@ GPU: NVIDIA GeForce RTX2070
 ### 手順
 1. CPUで動く普通のDockerを導入
 2. GPUを使えるようにするnvidia-dockerを導入  
-気が向いたら以下の内容をまとめたbash書きます．
+
+気が向いたら内容をまとめたbash書きます．
 
 ## 1. Install Docker CE
 [公式](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
