@@ -35,7 +35,7 @@ $ sudo add-apt-repository \
    $(lsb_release -cs) \
    stable"
 $ sudo apt-get update
-$ sudo apt-get install docker docker-compose 
+$ sudo apt-get install docker-ce docker-ce-cli containerd.io 
 ```
 以下を実行した出力の2列目（例.`5:18.09.1~3-0~ubuntu-xenial`)をメモ．  
 ```
