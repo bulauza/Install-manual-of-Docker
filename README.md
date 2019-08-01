@@ -14,8 +14,6 @@ GPU: NVIDIA GeForce RTX2070
 1. CPUで動く普通のDockerを導入
 2. GPUを使えるようにするnvidia-dockerを導入  
 
-気が向いたら内容をまとめたbash書きます．
-
 ## 1. Install Docker CE
 [公式](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 の手順通り Docker CE(安定版)を導入  
