@@ -1,5 +1,5 @@
 # Install-manual-of-Docker
-This is a note on how to install Docker on Ubuntu 18.0.4 
+This is a note on how to install Docker on Ubuntu 
 ## Introduction
 ### 対象者
 * Ubuntu環境でDockerを使ってみたい人．  
@@ -9,6 +9,7 @@ This is a note on how to install Docker on Ubuntu 18.0.4
 ### 筆者の環境  
 CPU: Intel corei9-9900k  
 GPU: NVIDIA GeForce RTX2070  
+OS:  ubuntu 18.0.4
 
 ### 手順
 1. CPUで動く普通のDockerを導入
